@@ -11,7 +11,7 @@
 **Support**
 用来表明子集在数据集中频繁的程度
 
-$
+$$
 Support = \frac{|{t\in T,X \subseteq t }|}{|T|}
-$
+$$
 
