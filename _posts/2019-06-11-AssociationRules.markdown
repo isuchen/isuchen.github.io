@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Association Rules"
+date:   2019-06-11 20:33:25 +0800
+categories: Data Mining
+---
+
 ### 关联规则
 
 关联规则，用来寻找事物与事物之间的关系，分析数据之间的相关性。
@@ -78,7 +85,8 @@ Step：
 
 例子如下图：
 
-<img src = 'img/apriori.png'>
+
+<img src="{{ absolute_url}} /assets/images/docs/apriori.png" >
 
 算法优缺点：
 
