@@ -62,7 +62,7 @@
 	body {
 		background: #fff;
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -75,7 +75,7 @@
 
 	input, textarea, select {
 		font-family: 'Source Sans Pro', sans-serif;
-		font-size: 19pt;
+		font-size: 14pt;
 		font-weight: 300;
 		line-height: 1.75em;
 		color: #888;
@@ -97,12 +97,12 @@
 	}
 
 	h2 {
-		font-size: 2em;
+		font-size: 1.2em;
 		letter-spacing: -1px;
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 1.0em;
 	}
 
 	header {
@@ -142,13 +142,13 @@
 	sub {
 		position: relative;
 		top: 0.5em;
-		font-size: 0.8em;
+		font-size: 0.5em;
 	}
 
 	sup {
 		position: relative;
 		top: -0.5em;
-		font-size: 0.8em;
+		font-size: 0.5em;
 	}
 
 	hr {
@@ -161,14 +161,14 @@
 		border-color: rgba(0, 0, 0, 0.2);
 		border-radius: 4px;
 		font-family: "Courier New", monospace;
-		font-size: 0.9em;
+		font-size: 0.7em;
 		padding: 0.25em 0.325em;
 	}
 
 	pre {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
-		font-size: 0.9em;
+		font-size: 0.95m;
 		tab-size: 4;
 		margin: 0 0 2em 0;
 		code {
@@ -460,10 +460,10 @@
 			background: #fff;
 			margin: 0;
 			padding: 1em;
-			font-size: 0.8em;
+			font-size: 0.5em;
 
 			h3 {
-				font-size: 1em;
+				font-size: 0.8em;
 			}
 		}
 	}
@@ -723,8 +723,9 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 17pt;
+				font-size: 12pt;
 			}
+			
 
 		/* Header */
 
@@ -781,7 +782,7 @@
 		/* Basic */
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 15pt;
 			}
 
 			.container {
@@ -824,7 +825,7 @@
 					list-style: none;
 					li {
 						a {
-							font-size: 0.8em;
+							font-size: 0.5em;
 							padding-top: 0.5em;
 							padding-bottom: 0.5em;
 
@@ -871,7 +872,7 @@
 			}
 
 			body, input, textarea, select {
-				font-size: 16pt;
+				font-size: 14pt;
 			}
 
 			header {
@@ -981,7 +982,7 @@
 						-moz-osx-font-smoothing: grayscale;
 						content: '\f0c9';
 						color: #fff;
-						font-size: 18px;
+						font-size: 15px;
 						line-height: 2.25em;
 						background: rgba(128, 136, 144, 0.5);
 						border-radius: 0.35em;
